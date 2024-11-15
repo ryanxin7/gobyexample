@@ -7,6 +7,8 @@
       <change afterPath="$PROJECT_DIR$/../day03/cert_monitor/cert_checker.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01_Hello World/hello-world.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day03/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +25,7 @@
   </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -49,7 +51,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build gobyexample/05_For">
+  <component name="RunManager" selected="Go Build.go build arrays.go">
+    <configuration name="go build arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobyexample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/08 Arrays/arrays.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build gobyexample/05_For" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
@@ -58,11 +67,19 @@
       <package value="gobyexample/05_For" />
       <method v="2" />
     </configuration>
-    <configuration name="go build values.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build gobyexample/06_If_else" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobyexample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/06_If_else/if_else.go" />
+      <package value="gobyexample/06_If_else" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/02_Values/values.go" />
+      <filePath value="$PROJECT_DIR$/07_Switch/switch.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build variable.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -74,9 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build arrays.go" />
+        <item itemvalue="Go Build.go build switch.go" />
+        <item itemvalue="Go Build.go build gobyexample/06_If_else" />
         <item itemvalue="Go Build.go build gobyexample/05_For" />
         <item itemvalue="Go Build.go build variable.go" />
-        <item itemvalue="Go Build.go build values.go" />
       </list>
     </recent_temporary>
   </component>

@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/../day03/cert_monitor/cert_checker.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day03/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 Arrays/arrays.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +52,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build maps.go">
-    <configuration name="go build arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Variadic_Functions.go">
+    <configuration name="go build Variadic_Functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/08 Arrays/arrays.go" />
+      <filePath value="$PROJECT_DIR$/13_Variadic_Functions/Variadic_Functions.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build gobyexample/06_If_else" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/06_If_else/if_else.go" />
-      <package value="gobyexample/06_If_else" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/11_Functions/functions.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -76,6 +74,13 @@
       <filePath value="$PROJECT_DIR$/10_Maps/maps.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build mrv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobyexample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/12_Multiple_Return_Values/mrv.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
@@ -83,20 +88,13 @@
       <filePath value="$PROJECT_DIR$/09_Slices/slices.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gobyexample" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/07_Switch/switch.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Variadic_Functions.go" />
+        <item itemvalue="Go Build.go build mrv.go" />
+        <item itemvalue="Go Build.go build functions.go" />
         <item itemvalue="Go Build.go build maps.go" />
         <item itemvalue="Go Build.go build slices.go" />
-        <item itemvalue="Go Build.go build arrays.go" />
-        <item itemvalue="Go Build.go build switch.go" />
-        <item itemvalue="Go Build.go build gobyexample/06_If_else" />
       </list>
     </recent_temporary>
   </component>

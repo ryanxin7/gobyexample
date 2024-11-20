@@ -5,8 +5,8 @@
       <change afterPath="$PROJECT_DIR$/../day03/02package/04_flag/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day03/cert_monitor/cert_checker" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day03/cert_monitor/cert_checker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello World/hello-world.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day03/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   <component name="ProjectId" id="2op6I5VfRhTNEl6qOJ6k32T66Ut" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -52,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Variadic_Functions.go">
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration name="go build Variadic_Functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
@@ -65,6 +66,13 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/11_Functions/functions.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobyexample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/14_Closures/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -81,20 +89,13 @@
       <filePath value="$PROJECT_DIR$/12_Multiple_Return_Values/mrv.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gobyexample" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/09_Slices/slices.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build Variadic_Functions.go" />
         <item itemvalue="Go Build.go build mrv.go" />
         <item itemvalue="Go Build.go build functions.go" />
         <item itemvalue="Go Build.go build maps.go" />
-        <item itemvalue="Go Build.go build slices.go" />
       </list>
     </recent_temporary>
   </component>

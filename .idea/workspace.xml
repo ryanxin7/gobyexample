@@ -5,8 +5,8 @@
       <change afterPath="$PROJECT_DIR$/../day03/02package/04_flag/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day03/cert_monitor/cert_checker" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day03/cert_monitor/cert_checker.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Hello World/hello-world.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day03/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xub\go\src\gobyexample" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -53,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build main.go (2)">
     <configuration name="go build Variadic_Functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
@@ -61,11 +66,18 @@
       <filePath value="$PROJECT_DIR$/13_Variadic_Functions/Variadic_Functions.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobyexample" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/11_Functions/functions.go" />
+      <filePath value="$PROJECT_DIR$/16_Range_over_Built-in_Types/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobyexample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/15_Recursion/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -73,13 +85,6 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/14_Closures/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gobyexample" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/10_Maps/maps.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build mrv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -91,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build Variadic_Functions.go" />
         <item itemvalue="Go Build.go build mrv.go" />
-        <item itemvalue="Go Build.go build functions.go" />
-        <item itemvalue="Go Build.go build maps.go" />
       </list>
     </recent_temporary>
   </component>
